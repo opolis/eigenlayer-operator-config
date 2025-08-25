@@ -2,5 +2,13 @@
   "name": "Opolis",
   "website": "https://opolis.co/",
   "description": "Opolis is a cooperative platform empowering independent workers to focus on what they do best- building their business.",
-  "logo": "https://raw.githubusercontent.com/opolis/eigenlayer-operator-config/refs/heads/main/logo.png"
+  "logo": "https://raw.githubusercontent.com/opolis/eigenlayer-operator-config/refs/heads/main/logo.png",
+  "operatorSets": [
+    {
+      "name": "Opolis AVS",
+      "id": "1",
+      "description": "The Opolis operatorSet for OpolisAVS",
+      "slashingConditions": ["Condition A", "Condition B"]
+    }
+  ]
 }
