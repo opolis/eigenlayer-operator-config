@@ -1,7 +1,7 @@
 {
   "name": "Opolis",
   "website": "https://opolis.co/",
-  "description": "Opolis is a cooperative platform empowering independent workers to focus on what they do best- building their business.",
+  "description": "Opolis is a cooperative platform empowering independent workers to focus on what they do best; building their business.",
   "logo": "https://raw.githubusercontent.com/opolis/eigenlayer-operator-config/refs/heads/main/logo.png",
   "operatorSets": [
     {
