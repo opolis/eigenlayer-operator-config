@@ -8,7 +8,6 @@
       "name": "Opolis AVS",
       "id": "1",
       "description": "The Opolis operatorSet for OpolisAVS",
-      "slashingConditions": ["Condition A", "Condition B"]
     }
   ]
 }
